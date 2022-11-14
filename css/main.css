@@ -36,6 +36,7 @@ left: 0;
 bottom: 0;
 text-align: center;
 border-top: solid blue;
+background-color: lightblue;
 }
 
 ul.posts { 
